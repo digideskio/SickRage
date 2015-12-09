@@ -21,6 +21,7 @@
 from itertools import imap
 
 import six
+import sys
 import types
 import codecs
 import locale
