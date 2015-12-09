@@ -25,6 +25,7 @@ import types
 import codecs
 import locale
 import functools
+import sickbeard
 import collections
 from os import name
 
