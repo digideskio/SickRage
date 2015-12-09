@@ -23,6 +23,7 @@ from itertools import imap
 import six
 import types
 import codecs
+import locale
 import functools
 import collections
 from os import name
